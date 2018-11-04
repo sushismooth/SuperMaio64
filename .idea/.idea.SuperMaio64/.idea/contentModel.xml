@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Andrew\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Andrew\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_SuperMaio64.-1122415592.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Andrew\Documents\NYU\Fall 2018\Intermediate Game Development\SuperMaio64" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="assets_Andrew" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="enemyBehaviour.cs" t="Include" />
+            <e p="patrol.cs" t="Include" />
+            <e p="playerController.cs" t="Include" />
+            <e p="timedTrap.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SuperMaio64.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
